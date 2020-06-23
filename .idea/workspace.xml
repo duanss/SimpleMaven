@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3318b8b4-a237-46cc-95a3-26fd7b5882b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zq8nLXPOoxtXAinC3F1Izuhxx0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleBingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SimpleBingTest" />
+      <module name="SimpleMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleBingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3318b8b4-a237-46cc-95a3-26fd7b5882b9" name="Default Changelist" comment="" />
+      <created>1585555429521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585555429521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1482" height="278" key="GridCell.Tab.0.bottom" timestamp="1587917553114">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1482" height="278" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587917553114" />
+    <state width="1327" height="252" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586244579599" />
+    <state width="1482" height="278" key="GridCell.Tab.0.center" timestamp="1587917553114">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1482" height="278" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587917553114" />
+    <state width="1327" height="252" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586244579599" />
+    <state width="1482" height="278" key="GridCell.Tab.0.left" timestamp="1587917553113">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1482" height="278" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587917553113" />
+    <state width="1327" height="252" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586244579598" />
+    <state width="1482" height="278" key="GridCell.Tab.0.right" timestamp="1587917553114">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1482" height="278" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587917553114" />
+    <state width="1327" height="252" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586244579599" />
+    <state x="-85" y="0" key="SettingsEditor" timestamp="1585555626889">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-85" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585555626889" />
+    <state x="334" y="179" key="com.intellij.ide.util.TipDialog" timestamp="1588670842218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="334" y="179" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588670842218" />
+    <state x="334" y="185" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586180590795" />
+    <state x="68" y="22" key="new project wizard" timestamp="1588671091107">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="68" y="22" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1588671091107" />
+    <state x="68" y="23" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1586244577426" />
+  </component>
+</project>
